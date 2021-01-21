@@ -110,8 +110,8 @@ body {
     position: absolute;
     background-color: rgba(247, 136, 167, 0.6);
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     right: 75px;
     top: 70px;
   }
@@ -123,7 +123,7 @@ body {
     width: 150px;
     height: 150px;
     right: 15px;
-    top: 240px;
+    top: 200px;
   }
 
   .circles-small {
@@ -132,7 +132,7 @@ body {
     border-radius: 50%;
     width: 115px;
     height: 115px;
-	right: 15px;
-	top
+    right: 15px;
+    top: 130px;
   }
 }
