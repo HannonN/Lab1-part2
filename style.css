@@ -112,8 +112,8 @@ body {
     border-radius: 50%;
     width: 200px;
     height: 200px;
-    right: 75px;
-    top: 70px;
+    right: 65px;
+    top: 10px;
   }
 
   .circles-medium {
@@ -122,8 +122,9 @@ body {
     border-radius: 50%;
     width: 150px;
     height: 150px;
-    right: 15px;
-    top: 200px;
+    right: 0px;
+    top: 125px;
+    z-index: 2;
   }
 
   .circles-small {
@@ -132,7 +133,7 @@ body {
     border-radius: 50%;
     width: 115px;
     height: 115px;
-    right: 15px;
-    top: 130px;
+    right: 0px;
+    top: 50px;
   }
 }
